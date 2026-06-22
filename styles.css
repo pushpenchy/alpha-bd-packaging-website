@@ -11,7 +11,7 @@
   --green-lime:   #8DCB2A;
   --green-mid:    #3CAA33;
   --green-deep:   #1E7A33;
-  --green-ink:    #0F3D20;
+  --green-ink:    #1c723b;
 
   /* paper / ink */
   --paper:        #F8F7F2;
@@ -228,7 +228,7 @@ h1,h2,h3,h4{
 
 .hero h1{
   font-family: var(--font-display); font-weight:800;
-  font-size: clamp(32px, 4.4vw, 52px);
+  font-size: clamp(32px, 4.4vw, 45px);
   letter-spacing: -.02em;
 }
 .hero h1 .hl{
